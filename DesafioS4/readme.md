@@ -10,9 +10,3 @@ Esta aplicación permite gestionar una lista de objetos utilizando operaciones C
 - `gestion.py`: Módulo para manejar las operaciones CRUD.
 - `utils.py`: Módulo para funciones auxiliares y lambda.
 
-## Ejecución
-
-Para ejecutar el programa, usa el siguiente comando:
-
-```bash
-python main.py

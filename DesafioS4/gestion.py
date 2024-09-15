@@ -1,6 +1,4 @@
 # gestion.py
-
-# Inicializamos las estructuras de datos
 productos_lista = []
 productos_diccionario = {}
 
